@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/noservegames/static/css/main.f855e6bc.css",
+    "main.js": "/noservegames/static/js/main.92722308.js",
+    "static/js/488.3af0d47e.chunk.js": "/noservegames/static/js/488.3af0d47e.chunk.js",
+    "index.html": "/noservegames/index.html",
+    "main.f855e6bc.css.map": "/noservegames/static/css/main.f855e6bc.css.map",
+    "main.92722308.js.map": "/noservegames/static/js/main.92722308.js.map",
+    "488.3af0d47e.chunk.js.map": "/noservegames/static/js/488.3af0d47e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.92722308.js"
+  ]
+}
